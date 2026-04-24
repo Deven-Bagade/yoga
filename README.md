@@ -1,1 +1,2 @@
-# yoga web --delete soon
+# yoga web
+#basic javascript project
