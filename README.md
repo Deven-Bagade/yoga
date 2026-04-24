@@ -1,2 +1,2 @@
 # yoga web
-#basic javascript project
+basic javascript project
